@@ -1,4 +1,4 @@
-const http = require("https");
+const http = require("http");
 
 require("dotenv").config();
 
